@@ -16,11 +16,14 @@ Even the smallest scripts or write-ups are part of the bigger picture: proving t
 
 ---
 
-## 🪴 Latest writings
-
 I also write longer reflections and guides on my blog:  
 👉 [**SheLovesTechy Blog**](https://shelovestechy.blogspot.com/)
 
+## 🪴 Latest writings
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 - 🩷 *Intune Lab Setup: Where It All Begins*  
 - 🌿 *Learning from Failures: My First Broken Policy*  
