@@ -21,6 +21,9 @@ I also write longer reflections and guides on my blog:
 
 ## 🪴 Latest writings
 <!-- BLOG-POST-LIST:START -->
+- [Data Classification and Handling — Protecting Information by Design](https://shelovestechy.blogspot.com/2025/10/data-classification-and-handling.html)
+- [Device Compliance and Intune — When Policy Becomes Automation](https://shelovestechy.blogspot.com/2025/10/device-compliance-and-intune-when.html)
+- [ISO/IEC 27001 — The Global Language of Security](https://shelovestechy.blogspot.com/2025/10/isoiec-27001-global-language-of-security.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
