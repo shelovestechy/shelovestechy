@@ -2,8 +2,15 @@ name: Update README with Latest Blog Posts
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # run every 12 hours
-  workflow_dispatch:        # allow manual run from the Actions tab
+    - cron: "0 */12 * * *"   # every 12 hours (UTC)
+  workflow_dispatch:          # lets you run it manually now
+  push:                       # also runs when you edit README or this workflow
+    paths:
+      - README.md
+      - .github/workflows/update-readme.yml
+
+permissions:
+  contents: write             # allow the action to commit the README
 
 jobs:
   update-readme:
@@ -20,3 +27,4 @@ jobs:
           remove_duplicates: true
           committer_username: "github-actions[bot]"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+ 
