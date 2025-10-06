@@ -3,9 +3,13 @@
 **Building my path through tech — one command, one mistake, one “aha!” at a time.**
 
 Welcome to my little corner of GitHub!  
-Here I’m documenting my journey of learning, testing, and building.  
-Most of my current focus is on **Microsoft Intune**, **M365**, **automation**, and slowly teaching myself **Python** 
-(it’s a patient love story, not a fast one 😅).
+
+🩷 **My Path in Progress**  
+I’m currently working as a Service Desk Specialist (L1), helping users and keeping things running behind the scenes.  
+In my free time, I’m diving deeper into Microsoft Intune, M365, and automation — learning how to manage devices smarter and fix issues more efficiently.  🌿
+
+I’m still figuring out where this path leads — maybe towards endpoint administration, consulting, or modern workplace management.  
+For now, I’m focusing on learning, experimenting, and growing through every challenge I face. ☕
 
 ---
 
@@ -27,11 +31,6 @@ I also write longer reflections and guides on my blog:
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-- 🩷 *Intune Lab Setup: Where It All Begins*  
-- 🌿 *Learning from Failures: My First Broken Policy*  
-- ☕ *Notes from the Service Desk: Everyday Troubleshooting in Real Life*  
-
 
 
 ## 🐍 What I’m learning
