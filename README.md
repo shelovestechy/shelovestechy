@@ -1,4 +1,4 @@
-# 🌸 SheLovesTechy
+# 🌸 SheLovesTechy - Karita J.
 
 **Building my path through tech — one command, one mistake, one “aha!” at a time.**
 
