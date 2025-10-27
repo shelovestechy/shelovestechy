@@ -25,9 +25,9 @@ I also write longer reflections and guides on my blog:
 
 ## 🪴 Latest writings
 <!-- BLOG-POST-LIST:START -->
+- [Group Policies vs. Intune: The Silent Tug-of-War in Modern Management](https://shelovestechy.blogspot.com/2025/10/group-policies-vs-intune-silent-tug-of.html)
+- [Inside the Hybrid Layer: What Really Happens When a Device Turns Non-Compliant](https://shelovestechy.blogspot.com/2025/10/inside-hybrid-layer-what-really-happens.html)
 - [Why Companies Still Use Servers When We Have Microsoft Entra and Intune](https://shelovestechy.blogspot.com/2025/10/why-companies-still-use-servers-when-we.html)
-- [Device Compliance and Intune Policies — Keeping Endpoints Healthy and Secure](https://shelovestechy.blogspot.com/2025/10/device-compliance-and-intune-policies.html)
-- [Data Classification and Handling — Protecting Information by Design](https://shelovestechy.blogspot.com/2025/10/data-classification-and-handling.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
