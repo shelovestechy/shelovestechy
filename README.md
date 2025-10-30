@@ -25,9 +25,9 @@ I also write longer reflections and guides on my blog:
 
 ## 🪴 Latest writings
 <!-- BLOG-POST-LIST:START -->
+- [The Human Side of IT: What Users Teach Us About Patience and Problem Solving](https://shelovestechy.blogspot.com/2025/10/the-human-side-of-it-what-users-teach.html)
 - [When Conditional Access Meets Real Life: Why Your Laptop Suddenly Asks for a BitLocker Key](https://shelovestechy.blogspot.com/2025/10/when-conditional-access-meets-real-life.html)
 - [Group Policies vs. Intune: The Silent Tug-of-War in Modern Management](https://shelovestechy.blogspot.com/2025/10/group-policies-vs-intune-silent-tug-of.html)
-- [Inside the Hybrid Layer: What Really Happens When a Device Turns Non-Compliant](https://shelovestechy.blogspot.com/2025/10/inside-hybrid-layer-what-really-happens.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
