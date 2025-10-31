@@ -25,9 +25,9 @@ I also write longer reflections and guides on my blog:
 
 ## 🪴 Latest writings
 <!-- BLOG-POST-LIST:START -->
+- [Automation Doesn’t Replace You — It Frees You](https://shelovestechy.blogspot.com/2025/10/automation-doesnt-replace-you-it-frees.html)
 - [The Human Side of IT: What Users Teach Us About Patience and Problem Solving](https://shelovestechy.blogspot.com/2025/10/the-human-side-of-it-what-users-teach.html)
 - [When Conditional Access Meets Real Life: Why Your Laptop Suddenly Asks for a BitLocker Key](https://shelovestechy.blogspot.com/2025/10/when-conditional-access-meets-real-life.html)
-- [Group Policies vs. Intune: The Silent Tug-of-War in Modern Management](https://shelovestechy.blogspot.com/2025/10/group-policies-vs-intune-silent-tug-of.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
