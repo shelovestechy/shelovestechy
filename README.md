@@ -25,9 +25,9 @@ I also write longer reflections and guides on my blog:
 
 ## 🪴 Latest writings
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell: Where Curiosity Turns Into Control](https://shelovestechy.blogspot.com/2025/11/powershell-where-curiosity-turns-into.html)
 - [When Systems Speak: Learning to Think in CMD and PowerShell](https://shelovestechy.blogspot.com/2025/11/when-systems-speak-learning-to-think-in.html)
 - [Documentation Saves Lives &lpar;and Sanity&rpar;](https://shelovestechy.blogspot.com/2025/11/documentation-saves-lives-and-sanity.html)
-- [Automation Doesn’t Replace You — It Frees You](https://shelovestechy.blogspot.com/2025/10/automation-doesnt-replace-you-it-frees.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
