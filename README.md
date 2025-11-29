@@ -33,14 +33,26 @@ I also write longer reflections and guides on my blog:
 ---
 
 
-## 🐍 What I’m learning
+## 🌱 What I’m Learning
+
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
+  <img alt="Microsoft 365" src="https://img.shields.io/badge/Microsoft_365-EE3A24?style=for-the-badge&logo=microsoft&logoColor=white">
+  <img alt="Intune" src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft-intune&logoColor=white">
+</p>
 
 | Area | Current Status | Notes |
 |------|----------------|-------|
-| **Python** | Beginner | Working through logic basics, automating small things |
-| **PowerShell** | Intermediate | Using it for device management & automation ideas |
-| **M365 / Intune** | Growing daily | Building my own virtual lab |
-| **Cybersecurity** | Curious | Learning through Microsoft Learn + TryHackMe |
+| **HTML / CSS** 🎨 | Beginner → growing fast | Learning structure, layouts, and building small UI components for portfolio projects. |
+| **React** ⚛️ | Early stages | Understanding components, state, props, and creating simple interactive features. |
+| **JSON** 📦 | Getting comfortable | Using it for app data, configs, and M365/Intune-related structures. |
+| **Lightweight Databases** 🗂️ | Beginner | Exploring SQLite, IndexedDB, and localStorage for small app storage. |
+| **M365 / Intune / Entra ID** 🧩 | Daily development | Deepening device & identity management skills through work + personal lab. |
+| **UI / UX** ✨ | Curious & hands-on | Experimenting with layouts, color palettes, and component-based design. |
+
 
 
 
