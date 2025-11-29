@@ -4,24 +4,33 @@
 
 Welcome to my little corner of GitHub!  
 
-🩷 **My Path in Progress**  
-I’m currently working as a Service Desk Specialist (L1), helping users and keeping things running behind the scenes.  
-In my free time, I’m diving deeper into Microsoft Intune, M365, and automation — learning how to manage devices smarter and fix issues more efficiently.  🌿
+# 💗 My Path in Progress
 
-I’m still figuring out where this path leads — maybe towards endpoint administration, consulting, or modern workplace management.  
-For now, I’m focusing on learning, experimenting, and growing through every challenge I face. ☕
+I’m Karita — a Service Desk Specialist (L1) who solves problems for a living and studies code for fun.  
+My days revolve around user support, Intune, M365, troubleshooting, and the tiny invisible things that keep companies running.  
+My evenings are for HTML, React, JSON, UI design, and slowly building my way into front-end development. 🌿
 
----
+I’m creating a future where my IT experience and my creative side meet in one path.  
+No rushing — just learning, building, and documenting the journey. ☕
 
-## 🧭 About this space
+<p align="center">
+  <span style="color:#6c8f7c;">✦ ✧ ✦</span>
+</p>
 
-This repo works as a **living portfolio** — a mix of experiments, notes, and real-world troubleshooting from my IT path.  
-Even the smallest scripts or write-ups are part of the bigger picture: proving that tech can be both **pretty and powerful**.
+## 🧭 About This Space
 
----
+This repository is my **living portfolio**.  
+A place where I collect experiments, notes, small UI components, troubleshooting moments, and reflections from my life in IT.
 
-I also write longer reflections and guides on my blog:  
-👉 [**SheLovesTechy Blog**](https://shelovestechy.blogspot.com/)
+It’s not about perfection.  
+It’s about progress — one tiny piece at a time.
+
+I also write reflections on my blog:  
+👉 **https://shelovestechy.blogspot.com/**
+
+<p align="center">
+  <span style="color:#6c8f7c;">✦ ✧ ✦</span>
+</p>
 
 ## 🪴 Latest writings
 <!-- BLOG-POST-LIST:START -->
@@ -30,36 +39,49 @@ I also write longer reflections and guides on my blog:
 - [Documentation Saves Lives &lpar;and Sanity&rpar;](https://shelovestechy.blogspot.com/2025/11/documentation-saves-lives-and-sanity.html)
 <!-- BLOG-POST-LIST:END -->
 
----
-
+<p align="center">
+  <span style="color:#6c8f7c;">✦ ✧ ✦</span>
+</p>
 
 ## 🌱 What I’m Learning
 
+### My Current Focus Areas
+
+| Area | Level | Notes |
+|------|--------|-------|
+| **HTML / CSS** | ⭐⭐⭐☆☆ | Learning layouts and building small UI pieces. |
+| **React** | ⭐⭐☆☆☆ | Components, state, props, interactive elements. |
+| **JSON** | ⭐⭐⭐☆☆ | Data structures for apps and M365 configs. |
+| **Lightweight Databases** | ⭐⭐☆☆☆ | localStorage, IndexedDB, SQLite basics. |
+| **M365 / Intune / Entra ID** | ⭐⭐⭐⭐☆ | Daily experience through real work. |
+| **UI / UX** | ⭐⭐⭐☆☆ | Soft layouts, spacing, typography, feel. |
+
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000">
-  <img alt="Microsoft 365" src="https://img.shields.io/badge/Microsoft_365-EE3A24?style=for-the-badge&logo=microsoft&logoColor=white">
-  <img alt="Intune" src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft-intune&logoColor=white">
+  <span style="color:#6c8f7c;">✦ ✧ ✦</span>
 </p>
 
-| Area | Current Status | Notes |
-|------|----------------|-------|
-| **HTML / CSS** 🎨 | Beginner → growing fast | Learning structure, layouts, and building small UI components for portfolio projects. |
-| **React** ⚛️ | Early stages | Understanding components, state, props, and creating simple interactive features. |
-| **JSON** 📦 | Getting comfortable | Using it for app data, configs, and M365/Intune-related structures. |
-| **Lightweight Databases** 🗂️ | Beginner | Exploring SQLite, IndexedDB, and localStorage for small app storage. |
-| **M365 / Intune / Entra ID** 🧩 | Daily development | Deepening device & identity management skills through work + personal lab. |
-| **UI / UX** ✨ | Curious & hands-on | Experimenting with layouts, color palettes, and component-based design. |
+## 🔮 Tools I Want to Learn Next
 
+| Tool | Why | Priority |
+|------|------|----------|
+| **TypeScript** | More reliable React projects | 🩷 High |
+| **Tailwind CSS** | Faster styling, better structure | 🩷 High |
+| **Next.js** | Stronger React foundation | 🌿 Medium |
+| **GitHub Actions** | Automating small tasks | 🌿 Medium |
+| **Storybook** | Documenting UI components | 🤍 Low |
 
-
+<p align="center">
+  <span style="color:#6c8f7c;">✦ ✧ ✦</span>
+</p>
 
 ## 🌙 Vision
 
-To turn this learning path into something educational and inspiring —  
-for myself, and for anyone else proving that curiosity and persistence matter more than titles.
+To grow into a role where design, logic, and modern workplace tech come together —  
+and to show that a self-built path can be both beautiful and powerful.
+
+Every step here is part of a transformation.  
+And it’s only getting brighter from here. 💗
+
 
 
 
