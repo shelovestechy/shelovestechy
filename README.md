@@ -13,9 +13,7 @@ My evenings are for HTML, React, JSON, UI design, and slowly building my way int
 I’m creating a future where my IT experience and my creative side meet in one path.  
 No rushing — just learning, building, and documenting the journey. ☕
 
-<p align="center">
-  <span style="color:#6c8f7c;">✦ ✧ ✦</span>
-</p>
+
 
 ## 🧭 About This Space
 
@@ -28,9 +26,7 @@ It’s about progress — one tiny piece at a time.
 I also write reflections on my blog:  
 👉 **https://shelovestechy.blogspot.com/**
 
-<p align="center">
-  <span style="color:#6c8f7c;">✦ ✧ ✦</span>
-</p>
+
 
 ## 🪴 Latest writings
 <!-- BLOG-POST-LIST:START -->
@@ -39,9 +35,7 @@ I also write reflections on my blog:
 - [Documentation Saves Lives &lpar;and Sanity&rpar;](https://shelovestechy.blogspot.com/2025/11/documentation-saves-lives-and-sanity.html)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-  <span style="color:#6c8f7c;">✦ ✧ ✦</span>
-</p>
+
 
 ## 🌱 What I’m Learning
 
@@ -56,9 +50,7 @@ I also write reflections on my blog:
 | **M365 / Intune / Entra ID** | ⭐⭐⭐⭐☆ | Daily experience through real work. |
 | **UI / UX** | ⭐⭐⭐☆☆ | Soft layouts, spacing, typography, feel. |
 
-<p align="center">
-  <span style="color:#6c8f7c;">✦ ✧ ✦</span>
-</p>
+
 
 ## 🔮 Tools I Want to Learn Next
 
@@ -70,9 +62,7 @@ I also write reflections on my blog:
 | **GitHub Actions** | Automating small tasks | 🌿 Medium |
 | **Storybook** | Documenting UI components | 🤍 Low |
 
-<p align="center">
-  <span style="color:#6c8f7c;">✦ ✧ ✦</span>
-</p>
+
 
 ## 🌙 Vision
 
@@ -81,8 +71,6 @@ and to show that a self-built path can be both beautiful and powerful.
 
 Every step here is part of a transformation.  
 And it’s only getting brighter from here. 💗
-
-
 
 
 **“Even a small script can change your world — if it works.”**
