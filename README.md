@@ -33,7 +33,7 @@ They are areas I keep returning to, because they keep revealing new layers.
 
 | Area | Depth | Notes |
 |------|-------|-------|
-| **Identity lifecycle** | ⭐⭐⭐⭐☆ | Watching how joiners, movers, and leavers behave over time |
+| **Identity lifecycle** | ⭐⭐⭐☆☆ | Watching how joiners, movers, and leavers behave over time |
 | **Access & boundaries** | ⭐⭐⭐☆☆ | Where responsibility shifts quietly, and where it fades |
 | **Everyday systems** | ⭐⭐⭐☆☆ | Observing how small decisions age in real environments |
 | **Automation & logic** | ⭐⭐⭐☆☆ | Seeing what gets amplified when humans step aside |
