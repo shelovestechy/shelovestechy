@@ -34,10 +34,10 @@ They are areas I keep returning to, because they keep revealing new layers.
 | Area | Depth | Notes |
 |------|-------|-------|
 | **Identity lifecycle** | ⭐⭐⭐⭐☆ | Watching how joiners, movers, and leavers behave over time |
-| **Access & boundaries** | ⭐⭐⭐⭐☆ | Where responsibility shifts quietly, and where it fades |
-| **Everyday systems** | ⭐⭐⭐⭐☆ | Observing how small decisions age in real environments |
+| **Access & boundaries** | ⭐⭐⭐☆☆ | Where responsibility shifts quietly, and where it fades |
+| **Everyday systems** | ⭐⭐⭐☆☆ | Observing how small decisions age in real environments |
 | **Automation & logic** | ⭐⭐⭐☆☆ | Seeing what gets amplified when humans step aside |
-| **Data & structure** | ⭐⭐⭐☆☆ | How identity travels between systems through data |
+| **Data & structure** | ⭐⭐☆☆☆ | How identity travels between systems through data |
 | **Documentation** | ⭐⭐⭐⭐☆ | Writing to think, not to impress |
 | **UI & clarity** | ⭐⭐⭐☆☆ | Making complex ideas readable and humane |
 
@@ -54,7 +54,7 @@ but to understand where decisions are actually made.
 | Tool / Concept | Curiosity | Why |
 |----------------|-----------|-----|
 | **Authentication protocols** | ⭐⭐⭐☆☆ | To see where trust is created — and where it isn’t |
-| **Authorization models** | ⭐⭐⭐⭐☆ | How intent turns into rules and exceptions |
+| **Authorization models** | ⭐⭐⭐☆☆ | How intent turns into rules and exceptions |
 | **Identity automation** | ⭐⭐⭐☆☆ | What scales cleanly, and what quietly breaks |
 | **Infrastructure as code** | ⭐⭐☆☆☆ | When identity becomes part of infrastructure |
 | **Identity experience (UX)** | ⭐⭐⭐☆☆ | How friction and clarity shape real behavior |
