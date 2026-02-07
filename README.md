@@ -1,78 +1,76 @@
-# 🌸 SheLovesTechy - Karita J.
+## 🌿 Where I’m headed
 
-**Building my path through tech — one command, one mistake, one “aha!” at a time.**
-
-Welcome to my little corner of GitHub!  
-
-# 💗 My Path in Progress
-
-I’m Karita — a Service Desk Specialist (L1) who solves problems for a living and studies code for fun.  
-My days revolve around user support, Intune, M365, troubleshooting, and the tiny invisible things that keep companies running.  
-My evenings are for HTML, React, JSON, UI design, and slowly building my way into front-end development. 🌿
-
-I’m creating a future where my IT experience and my creative side meet in one path.  
+I’m creating a future where my IT experience and my creative side meet on one path.  
 No rushing — just learning, building, and documenting the journey. ☕
 
+I’m already deep in observing how systems behave over time.  
+This space is where I slowly gather what I learn, piece by piece.
 
+---
 
 ## 🧭 About This Space
 
-This repository is my **living portfolio**.  
-A place where I collect experiments, notes, small UI components, troubleshooting moments, and reflections from my life in IT.
+This repository is my **living portfolio / notebook**.
+
+A place where I collect:
+- experiments and small builds  
+- notes and diagrams  
+- troubleshooting moments  
+- reflections from everyday work in IT  
 
 It’s not about perfection.  
 It’s about progress — one tiny piece at a time.
 
-I also write reflections on my blog:  
-👉 **https://shelovestechy.blogspot.com/**
+Some things here are unfinished on purpose.  
+They’re snapshots of thinking in motion.
 
+---
 
+## 🌱 What I’m Learning (right now)
 
-## 🪴 Latest writings
-<!-- BLOG-POST-LIST:START -->
-- [PowerShell: Where Curiosity Turns Into Control](https://shelovestechy.blogspot.com/2025/11/powershell-where-curiosity-turns-into.html)
-- [When Systems Speak: Learning to Think in CMD and PowerShell](https://shelovestechy.blogspot.com/2025/11/when-systems-speak-learning-to-think-in.html)
-- [Documentation Saves Lives &lpar;and Sanity&rpar;](https://shelovestechy.blogspot.com/2025/11/documentation-saves-lives-and-sanity.html)
-<!-- BLOG-POST-LIST:END -->
+These are not checklists or courses.  
+They are areas I keep returning to, because they keep revealing new layers.
 
+| Area | Depth | Notes |
+|------|-------|-------|
+| **Identity lifecycle** | ⭐⭐⭐⭐☆ | Watching how joiners, movers, and leavers behave over time |
+| **Access & boundaries** | ⭐⭐⭐⭐☆ | Where responsibility shifts quietly, and where it fades |
+| **Everyday systems** | ⭐⭐⭐⭐☆ | Observing how small decisions age in real environments |
+| **Automation & logic** | ⭐⭐⭐☆☆ | Seeing what gets amplified when humans step aside |
+| **Data & structure** | ⭐⭐⭐☆☆ | How identity travels between systems through data |
+| **Documentation** | ⭐⭐⭐⭐☆ | Writing to think, not to impress |
+| **UI & clarity** | ⭐⭐⭐☆☆ | Making complex ideas readable and humane |
 
+This table is meant to change.  
+If a row disappears, it usually means I’ve understood it well enough to move on.
 
-## 🌱 What I’m Learning
+---
 
-### My Current Focus Areas
+## 🔮 Tools & concepts I want to explore next
 
-| Area | Level | Notes |
-|------|--------|-------|
-| **HTML / CSS** | ⭐⭐⭐☆☆ | Learning layouts and building small UI pieces. |
-| **React** | ⭐⭐☆☆☆ | Components, state, props, interactive elements. |
-| **JSON** | ⭐⭐⭐☆☆ | Data structures for apps and M365 configs. |
-| **Lightweight Databases** | ⭐⭐☆☆☆ | localStorage, IndexedDB, SQLite basics. |
-| **M365 / Intune / Entra ID** | ⭐⭐⭐⭐☆ | Daily experience through real work. |
-| **UI / UX** | ⭐⭐⭐☆☆ | Soft layouts, spacing, typography, feel. |
+Not to collect technologies —  
+but to understand where decisions are actually made.
 
+| Tool / Concept | Curiosity | Why |
+|----------------|-----------|-----|
+| **Authentication protocols** | ⭐⭐⭐☆☆ | To see where trust is created — and where it isn’t |
+| **Authorization models** | ⭐⭐⭐⭐☆ | How intent turns into rules and exceptions |
+| **Identity automation** | ⭐⭐⭐☆☆ | What scales cleanly, and what quietly breaks |
+| **Infrastructure as code** | ⭐⭐☆☆☆ | When identity becomes part of infrastructure |
+| **Identity experience (UX)** | ⭐⭐⭐☆☆ | How friction and clarity shape real behavior |
 
+No deadlines here.  
+Just threads I keep pulling when something feels worth understanding deeper.
 
-## 🔮 Tools I Want to Learn Next
-
-| Tool | Why | Priority |
-|------|------|----------|
-| **TypeScript** | More reliable React projects | 🩷 High |
-| **Tailwind CSS** | Faster styling, better structure | 🩷 High |
-| **Next.js** | Stronger React foundation | 🌿 Medium |
-| **GitHub Actions** | Automating small tasks | 🌿 Medium |
-| **Storybook** | Documenting UI components | 🤍 Low |
-
-
+---
 
 ## 🌙 Vision
 
-To grow into a role where design, logic, and modern workplace tech come together —  
-and to show that a self-built path can be both beautiful and powerful.
-
 Every step here is part of a transformation.  
-And it’s only getting brighter from here. 💗
+Not a dramatic one — a quiet, steady one.
 
+I’m learning to trust slow progress,  
+to value depth over speed,  
+and to let understanding accumulate naturally.
 
-**“Even a small script can change your world — if it works.”**
-
-— *KJ 🩷*
+And yes — it’s only getting brighter from here. 💗
