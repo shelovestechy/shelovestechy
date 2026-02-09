@@ -34,11 +34,11 @@ They are areas I keep returning to, because they keep revealing new layers.
 | Area | Depth | Notes |
 |------|-------|-------|
 | **Identity lifecycle** | ⭐⭐⭐☆☆ | Watching how joiners, movers, and leavers behave over time |
-| **Access & boundaries** | ⭐⭐⭐☆☆ | Where responsibility shifts quietly, and where it fades |
 | **Everyday systems** | ⭐⭐⭐☆☆ | Observing how small decisions age in real environments |
 | **Automation & logic** | ⭐⭐⭐☆☆ | Seeing what gets amplified when humans step aside |
+| **Python** | ⭐⭐☆☆☆ | Building the logic that moves data between systems |
+| **PowerShell** | ⭐⭐☆☆☆ | Managing the backbone of modern environments |
 | **Data & structure** | ⭐⭐☆☆☆ | How identity travels between systems through data |
-| **Documentation** | ⭐⭐⭐⭐☆ | Writing to think, not to impress |
 | **UI & clarity** | ⭐⭐⭐☆☆ | Making complex ideas readable and humane |
 
 This table is meant to change.  
