@@ -1,10 +1,9 @@
-## 🌿 Where I’m headed
+# 🌿 Where I’m headed
 
-I’m creating a future where my IT experience and my creative side meet on one path.  
+I’m bridging the gap between technical IT systems and the human logic behind them.  
 No rushing — just learning, building, and documenting the journey. ☕
 
-I’m already deep in observing how systems behave over time.  
-This space is where I slowly gather what I learn, piece by piece.
+I am fascinated by how digital identities evolve and how systems maintain integrity over time. This space is where I slowly gather my observations and architectural puzzles, piece by piece.
 
 ---
 
@@ -13,64 +12,49 @@ This space is where I slowly gather what I learn, piece by piece.
 This repository is my **living portfolio / notebook**.
 
 A place where I collect:
-- experiments and small builds  
-- notes and diagrams  
-- troubleshooting moments  
-- reflections from everyday work in IT  
+- **IAM Experiments** – Small builds focusing on access logic.
+- **Architectural Notes** – Diagrams and troubleshooting patterns.
+- **Troubleshooting Moments** – Reflections from everyday work in IT.
+- **Snapshots of Thinking** – Some things here are unfinished on purpose.
 
-It’s not about perfection.  
-It’s about progress — one tiny piece at a time.
-
-Some things here are unfinished on purpose.  
-They’re snapshots of thinking in motion.
+It’s not about perfection. It’s about **progress** — one tiny piece at a time.
 
 ---
 
 ## 🌱 What I’m Learning (right now)
 
-These are not checklists or courses.  
-They are areas I keep returning to, because they keep revealing new layers.
+These are not checklists. They are areas I keep returning to, because they keep revealing new layers.
 
-| Area | Depth | Notes |
-|------|-------|-------|
-| **Identity lifecycle** | ⭐⭐⭐☆☆ | Watching how joiners, movers, and leavers behave over time |
-| **Everyday systems** | ⭐⭐⭐☆☆ | Observing how small decisions age in real environments |
-| **Automation & logic** | ⭐⭐⭐☆☆ | Seeing what gets amplified when humans step aside |
-| **Python** | ⭐⭐☆☆☆ | Building the logic that moves data between systems |
-| **PowerShell** | ⭐⭐☆☆☆ | Managing the backbone of modern environments |
-| **Data & structure** | ⭐⭐☆☆☆ | How identity travels between systems through data |
-| **UI & clarity** | ⭐⭐⭐☆☆ | Making complex ideas readable and humane |
-
-This table is meant to change.  
-If a row disappears, it usually means I’ve understood it well enough to move on.
+| Area | Depth | The Focus |
+| :--- | :---: | :--- |
+| **Identity Lifecycle** | ⭐⭐⭐☆☆ | Watching how Joiners, Movers, and Leavers behave over time. |
+| **Governance & Logic** | ⭐⭐⭐☆☆ | Observing how small policy decisions age in real environments. |
+| **Automation (Python)** | ⭐⭐☆☆☆ | Building the logic that moves data between systems via APIs. |
+| **PowerShell** | ⭐⭐☆☆☆ | Managing the backbone of modern Windows & Azure environments. |
+| **Data & Structure** | ⭐⭐☆☆☆ | How identity attributes transform as they travel between systems. |
+| **UI & Clarity** | ⭐⭐⭐☆☆ | Making complex security concepts readable and humane. |
 
 ---
 
 ## 🔮 Tools & concepts I want to explore next
 
-Not to collect technologies —  
-but to understand where decisions are actually made.
+Not to collect technologies — but to understand where decisions are actually made.
 
 | Tool / Concept | Curiosity | Why |
-|----------------|-----------|-----|
-| **Authentication protocols** | ⭐⭐⭐☆☆ | To see where trust is created — and where it isn’t |
-| **Authorization models** | ⭐⭐⭐☆☆ | How intent turns into rules and exceptions |
-| **Identity automation** | ⭐⭐⭐☆☆ | What scales cleanly, and what quietly breaks |
-| **Infrastructure as code** | ⭐⭐☆☆☆ | When identity becomes part of infrastructure |
-| **Identity experience (UX)** | ⭐⭐⭐☆☆ | How friction and clarity shape real behavior |
-
-No deadlines here.  
-Just threads I keep pulling when something feels worth understanding deeper.
+| :--- | :---: | :--- |
+| **Auth Protocols** | ⭐⭐⭐☆☆ | Diving into OIDC, SAML, and OAuth 2.0 flows. |
+| **Authorization Models** | ⭐⭐⭐☆☆ | How intent turns into scalable rules and exceptions (RBAC/ABAC). |
+| **Identity Automation** | ⭐⭐⭐☆☆ | What scales cleanly, and what quietly breaks at scale. |
+| **Infrastructure as Code** | ⭐⭐☆☆☆ | When identity becomes part of the automated infrastructure. |
+| **Identity Experience (UX)** | ⭐⭐⭐☆☆ | How friction and clarity shape real security behavior. |
 
 ---
 
 ## 🌙 Vision
 
 Every step here is part of a transformation.  
-Not a dramatic one — a quiet, steady one.
+Not a dramatic one — a **quiet, steady** one.
 
-I’m learning to trust slow progress,  
-to value depth over speed,  
-and to let understanding accumulate naturally.
+I’m learning to trust slow progress, to value depth over speed, and to let understanding accumulate naturally.
 
 And yes — it’s only getting brighter from here. 💗
