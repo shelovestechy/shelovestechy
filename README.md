@@ -1,7 +1,7 @@
 # 🌿 Where I’m headed
 
 I’m bridging the gap between technical IT systems and the human logic behind them.  
-No rushing — just learning, building, and documenting the journey. ☕
+No rushing — just learning, building and documenting the journey. ☕
 
 I am fascinated by how digital identities evolve and how systems maintain integrity over time. This space is where I slowly gather my observations and architectural puzzles, piece by piece.
 
@@ -27,10 +27,10 @@ These are not checklists. They are areas I keep returning to, because they keep 
 
 | Area | Depth | The Focus |
 | :--- | :---: | :--- |
-| **Identity Lifecycle** | ⭐⭐⭐☆☆ | Watching how Joiners, Movers, and Leavers behave over time. |
+| **Identity Lifecycle** | ⭐⭐⭐☆☆ | Watching how Joiners, Movers and Leavers behave over time. |
 | **Governance & Logic** | ⭐⭐⭐☆☆ | Observing how small policy decisions age in real environments. |
 | **Automation (Python)** | ⭐⭐☆☆☆ | Building the logic that moves data between systems via APIs. |
-| **PowerShell** | ⭐⭐☆☆☆ | Managing the backbone of modern Windows & Azure environments. |
+| **PowerShell** | ⭐⭐☆☆☆ | Managing the backbone of modern Windows and Azure environments. |
 | **Data & Structure** | ⭐⭐☆☆☆ | How identity attributes transform as they travel between systems. |
 | **UI & Clarity** | ⭐⭐⭐☆☆ | Making complex security concepts readable and humane. |
 
@@ -42,9 +42,9 @@ Not to collect technologies — but to understand where decisions are actually m
 
 | Tool / Concept | Curiosity | Why |
 | :--- | :---: | :--- |
-| **Auth Protocols** | ⭐⭐⭐☆☆ | Diving into OIDC, SAML, and OAuth 2.0 flows. |
+| **Auth Protocols** | ⭐⭐⭐☆☆ | Diving into OIDC, SAML and OAuth 2.0 flows. |
 | **Authorization Models** | ⭐⭐⭐☆☆ | How intent turns into scalable rules and exceptions (RBAC/ABAC). |
-| **Identity Automation** | ⭐⭐⭐☆☆ | What scales cleanly, and what quietly breaks at scale. |
+| **Identity Automation** | ⭐⭐⭐☆☆ | What scales cleanly and what quietly breaks at scale. |
 | **Infrastructure as Code** | ⭐⭐☆☆☆ | When identity becomes part of the automated infrastructure. |
 | **Identity Experience (UX)** | ⭐⭐⭐☆☆ | How friction and clarity shape real security behavior. |
 
@@ -55,6 +55,6 @@ Not to collect technologies — but to understand where decisions are actually m
 Every step here is part of a transformation.  
 Not a dramatic one — a **quiet, steady** one.
 
-I’m learning to trust slow progress, to value depth over speed, and to let understanding accumulate naturally.
+I’m learning to trust slow progress, to value depth over speed and to let understanding accumulate naturally.
 
 And yes — it’s only getting brighter from here. 💗
