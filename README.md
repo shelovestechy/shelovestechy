@@ -88,18 +88,16 @@ I’m developing a practical foundation in concepts that shape identity and acce
 
 ## 🛠️ Tools I Want to Get Familiar With
 
-I do not want to collect tool names just to sound technical.
+I want to understand what these tools are used for, what problems they solve and what can go wrong when identity processes are poorly planned.
 
-I want to learn what these tools are actually responsible for, where decisions are made and what can break when identity processes are poorly designed.
-
-| Tool | Curiosity | Why |
+| Tool / Topic | Current level | Why it interests me |
 | :--- | :---: | :--- |
-| **Microsoft Entra ID** | ⭐⭐⭐☆☆ | Core identity and access management in the Microsoft ecosystem |
-| **Microsoft Entra ID Governance** | ⭐⭐⭐☆☆ | Access reviews, lifecycle workflows and governance in Microsoft environments |
-| **SailPoint** | ⭐☆☆☆☆ | Enterprise identity governance, certifications and lifecycle management |
-| **Saviynt** | ⭐☆☆☆☆ | Identity governance, application access and enterprise access controls |
-| **PowerShell** | ⭐⭐⭐☆☆ | Practical automation, administration and identity-related scripting |
-
+| **Microsoft Entra admin center** | ⭐⭐⭐☆☆ | Main place to learn users, groups, roles, access and Microsoft identity administration |
+| **Microsoft Entra ID Governance** | ⭐⭐☆☆☆ | Access reviews, lifecycle workflows and governance in Microsoft environments |
+| **PowerShell** | ⭐⭐☆☆☆ | Practical automation, admin tasks and understanding objects and system data |
+| **SailPoint** | ⭐☆☆☆☆ | Enterprise identity governance, access reviews and lifecycle management |
+| **Saviynt** | ⭐☆☆☆☆ | Identity governance, application access and access control in larger environments |
+| **GRC basics** | ⭐☆☆☆☆ | Understanding risk, controls, evidence, audits and why access needs to be governed |
 ---
 
 ## 📚 Governance, Security and Compliance Foundations
