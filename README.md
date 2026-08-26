@@ -1,59 +1,89 @@
 # 🌿 Hi, I'm Karita
 
-I work as a Service Desk Specialist and I’m currently building my skills toward Identity and Access Management.
+**Service Desk Specialist building toward IAM & Identity Security.**
 
-My goal is to move toward an IAM role where I can work more deeply with users, access, permissions, identity processes and Microsoft Entra ID.
+I’m especially interested in Microsoft Entra ID, identity lifecycle, access management and the security thinking behind who should have access to what — and why.
 
-Long term, I’m interested in the engineering and architecture side of IAM: how access should be designed, how identity moves through systems and how to build solutions that are secure, clear and practical.
-
----
-
-## 🧭 About This GitHub
-
-I use GitHub as a portfolio and learning space.
-
-I like writing down what I study, what I build and how my thinking develops over time. Most of my repositories are connected to IT learning, IAM, Microsoft Entra ID, Microsoft 365, PowerShell, documentation and practical problem solving.
-
-This profile is not meant to look perfect. It is meant to show progress, curiosity and hands-on learning.
+I learn best by doing. I enjoy experimenting with PowerShell, code, AI and different tools, breaking things in labs, figuring out why they broke, and documenting what I learned along the way.
 
 ---
 
-## 🌱 Current Learning Focus
+## 🧭 Where I'm Heading
 
-I’m currently building my skills around:
+My current goal is to take the next step from Service Desk into a role focused more deeply on **Identity & Access Management and Identity Security**.
 
-- Identity and Access Management
-- Microsoft Entra ID
-- Microsoft 365 administration
-- Access lifecycle and user lifecycle processes
-- Identity governance
-- Privileged access basics
-- IAM tools and platforms
-- PowerShell for practical administration
-- SC-300 certification studies
-
-I’m also building a basic understanding of security, governance and compliance topics, including:
-
-- ISO/IEC 27001
-- GDPR
-- NIS2 and Finnish cybersecurity regulation
-- Risk and compliance thinking
+Long term, I’m interested in the engineering and architecture side of identity: secure access design, lifecycle processes, automation, governance and building solutions that are both secure and practical.
 
 ---
 
-## 🧩 Why IAM Interests Me
+## 🌱 Currently Learning
 
-Support work has shown me how quickly access problems turn into real business problems.
+**Identity & Access**
+`Microsoft Entra ID` · `Identity Governance` · `Access Lifecycle` · `Privileged Access` · `Dynamic Groups`
 
-Weak processes, unclear ownership, poor documentation and badly planned changes create confusion for users, pressure for support and unnecessary security risk.
+**Identity Security**
+`Conditional Access` · `Least Privilege` · `Zero Trust` · `Access Reviews`
 
-That is why IAM interests me.
+**Automation & Engineering**
+`PowerShell` · `Identity Automation` · `Git/GitHub` · `AI-assisted Development`
 
-Access looks simple from the outside. In reality, it becomes messy fast when ownership, lifecycle, roles and documentation are not designed properly.
+**Security & Governance**
+`ISO 27001` · `NIS2` · `GDPR` · `Risk & Compliance`
 
-Good access management is structure, timing, ownership and clean logic — not just adding or removing permissions.
-
+**Certification Path**
+`Microsoft SC-300 — Identity and Access Administrator`
 
 ---
 
-Quiet progress still counts 🌱
+## 🧪 Learning in Practice
+
+Not everything I want to learn is available to experiment with in a real work environment — and some technologies, features and licensing simply aren't always accessible.
+
+So I work with what I have.
+
+For Microsoft Entra ID, I use my own fictional practice environment, **Ankkalinna Identity Lab Oy**, to explore concepts, build labs and document what I learn.
+
+At work, I gain practical experience where my role and environment allow it. Outside of that, I use labs, documentation, courses, PowerShell, AI and small projects to keep pushing my skills further.
+
+Some topics on this GitHub are things I have used in practice. Others are technologies I am actively learning and exploring.
+
+**The important part for me is understanding how and why things work — not pretending I already know everything.**
+
+---
+
+## 🔧 How I Learn
+
+This GitHub is my **learning lab and portfolio**.
+
+You'll find notes, experiments, labs and small projects showing both what I’m learning and how my thinking develops over time.
+
+I tend to approach new topics with a few simple questions:
+
+**How does this actually work?**
+**Why is it designed this way?**
+**What could go wrong?**
+**Can I build it, automate it or make it clearer?**
+
+I genuinely enjoy tinkering with technology — whether that means PowerShell, identity systems, software, automation or finding useful ways to work with AI.
+
+I'm not trying to make this profile look like I already know everything.
+
+**I'm documenting the work it takes to get there.**
+
+---
+
+## 🧩 Why IAM?
+
+Support work has shown me that access problems rarely stay small.
+
+Unclear ownership, poorly planned changes, missing documentation and messy lifecycle processes quickly become user problems, support problems — and security problems.
+
+That's what pulled me toward IAM.
+
+Good access management is more than adding someone to a group.
+
+It's **identity, lifecycle, ownership, timing, security and clean logic.**
+
+---
+
+**Quiet progress still counts 🌱**
