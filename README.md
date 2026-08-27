@@ -2,29 +2,27 @@
 
 **Service Desk Specialist building toward IAM & Identity Security.**
 
-I’m especially interested in Microsoft Entra ID, identity lifecycle, access management and the security thinking behind who should have access to what — and why.
+I'm especially interested in **Microsoft Entra ID, identity lifecycle, access management and Identity Security** — understanding who should have access to what, when, and why.
 
-I learn best by doing. I enjoy experimenting with PowerShell, code, AI and different tools, breaking things in labs, figuring out why they broke, and documenting what I learned along the way.
+I learn best by building things. I enjoy working with **PowerShell, code, automation and AI-assisted development**, experimenting in labs, solving problems and documenting what I learn.
 
 ---
 
 ## 🧭 Where I'm Heading
 
-My current goal is to take the next step from Service Desk into a role focused more deeply on **Identity & Access Management and Identity Security**.
+My goal is to move from Service Desk toward roles focused on **Identity & Access Management, Identity Security and automation**.
 
-Long term, I’m interested in the engineering and architecture side of identity: secure access design, lifecycle processes, automation, governance and building solutions that are both secure and practical.
+Long term, I'm interested in the engineering and architecture side of identity: secure access design, lifecycle processes, governance and practical automation.
 
----
-
-## 🌱 Currently Learning
+### Currently learning
 
 **Identity & Access**
-`Microsoft Entra ID` · `Identity Governance` · `Access Lifecycle` · `Privileged Access` · `Dynamic Groups`
+`Microsoft Entra ID` · `Identity Governance` · `Access Lifecycle` · `Privileged Access`
 
 **Identity Security**
 `Conditional Access` · `Least Privilege` · `Zero Trust` · `Access Reviews`
 
-**Automation & Engineering**
+**Automation & Development**
 `PowerShell` · `Identity Automation` · `Git/GitHub` · `AI-assisted Development`
 
 **Security & Governance**
@@ -37,38 +35,27 @@ Long term, I’m interested in the engineering and architecture side of identity
 
 ## 🧪 Learning in Practice
 
-Not everything I want to learn is available to experiment with in a real work environment — and some technologies, features and licensing simply aren't always accessible.
+Not everything I want to learn is available in a production environment, so I build my own ways to practice.
 
-So I work with what I have.
+For Microsoft Entra ID, I use my fictional practice tenant, **Ankkalinna Identity Lab Oy**, to build labs, explore identity concepts and document what I learn.
 
-For Microsoft Entra ID, I use my own fictional practice environment, **Ankkalinna Identity Lab Oy**, to explore concepts, build labs and document what I learn.
+At work, I gain practical experience where my role and environment allow it. Outside of work, I use labs, Microsoft Learn, PowerShell, documentation, AI and personal projects to keep developing my skills.
 
-At work, I gain practical experience where my role and environment allow it. Outside of that, I use labs, documentation, courses, PowerShell, AI and small projects to keep pushing my skills further.
+Some repositories show technologies I've already worked with. Others document things I'm actively learning.
 
-Some topics on this GitHub are things I have used in practice. Others are technologies I am actively learning and exploring.
-
-**The important part for me is understanding how and why things work — not pretending I already know everything.**
+**The goal isn't to pretend I know everything — it's to show the work I'm doing to get better.**
 
 ---
 
-## 🔧 How I Learn
+## 🌿 Beyond IAM — NordHerb
 
-This GitHub is my **learning lab and portfolio**.
+I also enjoy building software outside the Microsoft ecosystem.
 
-You'll find notes, experiments, labs and small projects showing both what I’m learning and how my thinking develops over time.
+**NordHerb** is my personal plant identification and knowledge application project. It gives me a place to practice software development, UI/UX thinking, information architecture and working with larger structured datasets.
 
-I tend to approach new topics with a few simple questions:
+I also use the project to explore **AI-assisted software development** — using AI as a tool for ideation, problem-solving, debugging and development while still understanding and owning the decisions behind the solution.
 
-**How does this actually work?**
-**Why is it designed this way?**
-**What could go wrong?**
-**Can I build it, automate it or make it clearer?**
-
-I genuinely enjoy tinkering with technology — whether that means PowerShell, identity systems, software, automation or finding useful ways to work with AI.
-
-I'm not trying to make this profile look like I already know everything.
-
-**I'm documenting the work it takes to get there.**
+➡️ **[Explore NordHerb](LINK-TO-NORDHERB-REPO)**
 
 ---
 
@@ -76,11 +63,11 @@ I'm not trying to make this profile look like I already know everything.
 
 Support work has shown me that access problems rarely stay small.
 
-Unclear ownership, poorly planned changes, missing documentation and messy lifecycle processes quickly become user problems, support problems — and security problems.
+Poorly planned changes, unclear ownership and messy lifecycle processes quickly become **user problems, support problems and security problems**.
 
 That's what pulled me toward IAM.
 
-Good access management is more than adding someone to a group.
+Good access management isn't just adding someone to a group.
 
 It's **identity, lifecycle, ownership, timing, security and clean logic.**
 
