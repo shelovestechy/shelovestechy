@@ -1,75 +1,70 @@
 # 🌿 Hi, I'm Karita
 
-**Service Desk Specialist building toward IAM & Identity Security.**
+**Service Desk Specialist exploring AI-assisted development, low-code and practical automation.**
 
-I'm especially interested in **Microsoft Entra ID, identity lifecycle, access management and Identity Security** — understanding who should have access to what, when, and why.
+I enjoy turning ideas and everyday problems into useful applications. My background in IT support helps me think about what people need, where workflows get stuck and how technology could make things easier.
 
-I learn best by building things. I enjoy working with **PowerShell, code, automation and AI-assisted development**, experimenting in labs, solving problems and documenting what I learn.
-
----
-
-## 🧭 Where I'm Heading
-
-My goal is to move from Service Desk toward roles focused on **Identity & Access Management, Identity Security and automation**.
-
-Long term, I'm interested in the engineering and architecture side of identity: secure access design, lifecycle processes, governance and practical automation.
-
-### Currently learning
-
-**Identity & Access**
-`Microsoft Entra ID` · `Identity Governance` · `Access Lifecycle` · `Privileged Access`
-
-**Identity Security**
-`Conditional Access` · `Least Privilege` · `Zero Trust` · `Access Reviews`
-
-**Automation & Development**
-`PowerShell` · `Identity Automation` · `Git/GitHub` · `AI-assisted Development`
-
-**Security & Governance**
-`ISO 27001` · `NIS2` · `GDPR` · `Risk & Compliance`
-
-**Certification Path**
-`Microsoft SC-300 — Identity and Access Administrator`
+I'm interested in **AI-powered tools, low-code solutions, software development and automation**. I learn best by building, experimenting, troubleshooting and improving things one step at a time.
 
 ---
 
-## 🧪 Learning in Practice
+## 📱 Featured Project — NordHerb
 
-Not everything I want to learn is available in a production environment, so I build my own ways to practice.
+**NordHerb** is my personal plant knowledge project, with a web guide and a working mobile beta for iPhone and Android through Expo Go.
 
-For Microsoft Entra ID, I use my fictional practice tenant, **Ankkalinna Identity Lab Oy**, to build labs, explore identity concepts and document what I learn.
+It brings together my interest in nature and hands-on software development:
 
-At work, I gain practical experience where my role and environment allow it. Outside of work, I use labs, Microsoft Learn, PowerShell, documentation, AI and personal projects to keep developing my skills.
+- a shared collection of **140 plant entries in Finnish and English**
+- search, plant detail pages and clear safety labels
+- a mobile photo-based plant suggestion feature using **Pl@ntNet**
+- a **React Native / Expo / TypeScript** mobile app
+- a **Java / Spring Boot** API connecting the app to the plant identification service
 
-Some repositories show technologies I've already worked with. Others document things I'm actively learning.
+I use AI to help with ideation, development and debugging, and keep learning how the different parts work together. The project is still a beta, with source review, content improvements and user testing ahead.
 
-**The goal isn't to pretend I know everything — it's to show the work I'm doing to get better.**
-
----
-
-## 🌿 Beyond IAM — NordHerb
-
-I also enjoy building software outside the Microsoft ecosystem.
-
-**NordHerb** is my personal plant identification and knowledge application project. It gives me a place to practice software development, UI/UX thinking, information architecture and working with larger structured datasets.
-
-I also use the project to explore **AI-assisted software development** — using AI as a tool for ideation, problem-solving, debugging and development while still understanding and owning the decisions behind the solution.
-
-➡️ **[Explore NordHerb](LINK-TO-NORDHERB-REPO)**
+🎥 **[Watch the first mobile beta preview](https://www.youtube.com/shorts/w_p4Oz_j1bI)**  
+🌿 **[Explore the NordHerb repository](https://github.com/shelovestechy/nord-herb)**  
+🌐 **[Open the web guide](https://shelovestechy.github.io/nord-herb/)**
 
 ---
 
-## 🧩 Why IAM?
+## 🧭 What I Want to Build Toward
 
-Support work has shown me that access problems rarely stay small.
+I'd like to grow into work where I can **build useful tools, improve processes and help people use technology effectively**.
 
-Poorly planned changes, unclear ownership and messy lifecycle processes quickly become **user problems, support problems and security problems**.
+Areas I want to explore include:
 
-That's what pulled me toward IAM.
+- **AI applications and assistants** that solve clear, practical problems
+- **Low-code development** for useful apps and workflows
+- **Automation and integrations** that reduce repetitive work
+- **User-focused software development**, from an initial idea to a working demo
 
-Good access management isn't just adding someone to a group.
+My Microsoft 365, Entra ID and access management experience is part of my foundation. I'm also exploring where my interest in building and problem-solving can take me beyond that.
 
-It's **identity, lifecycle, ownership, timing, security and clean logic.**
+---
+
+## 🛠️ My Background & Learning
+
+**IT support experience**  
+Microsoft 365 · Entra ID · Active Directory · Intune · ServiceNow
+
+**Hands-on projects and practice**  
+PowerShell · Git/GitHub · AI-assisted development · Web and mobile applications · APIs · Structured data
+
+**Exploring next**  
+Low-code tools · AI assistants and agents · Workflow automation · Testing and evaluating AI outputs
+
+I don't treat AI-generated code as proof that a solution works. My aim is to understand what I build, check the results and learn from the parts that need fixing.
+
+---
+
+## 🧪 More Hands-on Work
+
+- **[AI Desktop Assistant](https://github.com/shelovestechy/AI-desktop-assistant)** — a personal desktop assistant project.
+- **[PowerShell Playground](https://github.com/shelovestechy/powershell-playground)** — scripting experiments and practice.
+- **[Ankkalinna Identity Lab](https://github.com/shelovestechy/identity-lab)** — identity and access management exercises in a fictional organisation.
+
+My repositories include both working projects and learning experiments. I aim to make their current state and limitations clear.
 
 ---
 
